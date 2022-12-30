@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96633703801",
+    "project_id": "iattened",
+    "storage_bucket": "iattened.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96633703801:android:6c09b228c5e31b633c73a8",
+        "android_client_info": {
+          "package_name": "com.kivocsa99.iattened"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96633703801-trciod3fcb5hjn6a81aeoo4mpcc2vnfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMbFrVQPOHYEsU8Ig3TjNFUca6_M1VGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96633703801-trciod3fcb5hjn6a81aeoo4mpcc2vnfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
